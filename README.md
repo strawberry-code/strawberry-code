@@ -7,7 +7,7 @@
   
 👨‍🎓 Proud Master's Degree at Polytechnic University of Turin
 
-👨‍💻 Software Engieer - Web-oriented developer
+👨‍💻 Software Engineer - 4.0 Industry oriented developer
 
 📱 React Native developer
 
@@ -15,10 +15,12 @@
 
 🕹 Videogames addicted
 
+🍎 macOS evangelist
+
 🚗 Mazda MX-5 owner & enthusiast
 
-🗿 3D printers lover
+🗿 3D printer lover
 
 🔗 Blockchain-aware
 
-🐕 Akita Inut owner
+🐕🐕 Akita Inu and Shiba Inu owner
