@@ -9,18 +9,14 @@
 
 👨‍💻 Software Engineer - 4.0 Industry oriented developer
 
-📱 React Native developer
-
 🖥 Unix shell advanced user
 
 🕹 Videogames addicted
 
 🍎 macOS evangelist
 
-🚗 Mazda MX-5 owner & enthusiast
-
 🗿 3D printer lover
 
 🔗 Blockchain-aware
 
-🐕🐕 Akita Inu and Shiba Inu owner
+🐕🐕 Shiba Inu ♂︎ and Shiba Inu ♀︎ owner
