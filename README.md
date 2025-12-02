@@ -46,11 +46,6 @@
 
 🐕🐕 Shiba Inu ♂︎ and Shiba Inu ♀︎ owner
 
-<!-- Timezone Widget -->
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=ff6b35&label=🕐%20Local%20Time&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FRome&style=for-the-badge" alt="Local Time"/>
-</p>
-
 ---
 
 <!-- Tech Stack -->
@@ -80,20 +75,24 @@
 
 ---
 
-<!-- GitHub Stats + Top Languages -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strawberry-code&show_icons=true&theme=radical&title_color=ff6b35&icon_color=f72585&text_color=ffffff&bg_color=151515&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawberry-code&layout=pie&theme=radical&title_color=ff6b35&text_color=ffffff&bg_color=151515&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=strawberry-code&show_icons=true&title_color=ff6b35&icon_color=f72585&text_color=ffffff&bg_color=151515&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawberry-code&layout=compact&title_color=ff6b35&text_color=ffffff&bg_color=151515&hide_border=true" alt="Top Languages"/>
 </p>
 
 <!-- GitHub Streak - Fire Theme -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=strawberry-code&theme=radical&background=151515&ring=ff6b35&fire=f72585&currStreakLabel=ff6b35&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9f9f9f&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=strawberry-code&background=151515&ring=ff6b35&fire=f72585&currStreakLabel=ff6b35&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9f9f9f&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=strawberry-code&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=strawberry-code&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -110,38 +109,22 @@
 
 ---
 
-<!-- Pinned Repos Cards -->
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/strawberry-code/strawberry-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=strawberry-code&repo=strawberry-code&theme=radical&title_color=ff6b35&icon_color=f72585&text_color=ffffff&bg_color=151515&hide_border=true" alt="Profile Repo"/>
-  </a>
-</p>
-
-<!-- Aggiungi qui altri repo quando li avrai -->
-<!--
-<p align="center">
-  <a href="https://github.com/strawberry-code/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=strawberry-code&repo=REPO_NAME&theme=radical&title_color=ff6b35&icon_color=f72585&text_color=ffffff&bg_color=151515&hide_border=true" alt="Repo"/>
-  </a>
-</p>
--->
-
----
-
 <!-- Medium Blog Posts -->
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Chi sei tu? Un viaggio tra gli identificatori digitali](https://medium.com/@cristianocavo/chi-sei-tu-un-viaggio-tra-gli-identificatori-digitali-86d1697e115b?source=rss-d17013da4ad3------2) - 16/08/2025- [Pokemon Monogatari: nella tana del Dr. Bug](https://medium.com/@cristianocavo/pokemon-monogatari-nella-tana-del-dr-bug-ecb45e4a2f23?source=rss-d17013da4ad3------2) - 13/08/2025- [La grande IDEa](https://medium.com/@cristianocavo/la-grande-idea-d00df0e49321?source=rss-d17013da4ad3------2) - 12/08/2025- [“Prima pensa, poi programma”: Leslie Lamport, TLA+ e il ponte verso BFT e &lpar;crypto&rpar;-consensus](https://medium.com/@cristianocavo/prima-pensa-poi-programma-leslie-lamport-tla-e-il-ponte-verso-bft-e-crypto-consensus-5dd9db5d65cd?source=rss-d17013da4ad3------2) - 12/08/2025- [La batteria elettrica: storia, innovazioni e curiosità da Volta ai giorni nostri](https://medium.com/@cristianocavo/la-batteria-elettrica-storia-innovazioni-e-curiosit%C3%A0-da-volta-ai-giorni-nostri-d523abe6dbda?source=rss-d17013da4ad3------2) - 12/08/2025<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Chi sei tu? Un viaggio tra gli identificatori digitali](https://medium.com/@cristianocavo/chi-sei-tu-un-viaggio-tra-gli-identificatori-digitali-86d1697e115b?source=rss-d17013da4ad3------2)
+- [Pokemon Monogatari: nella tana del Dr. Bug](https://medium.com/@cristianocavo/pokemon-monogatari-nella-tana-del-dr-bug-ecb45e4a2f23?source=rss-d17013da4ad3------2)
+- [La grande IDEa](https://medium.com/@cristianocavo/la-grande-idea-d00df0e49321?source=rss-d17013da4ad3------2)
+- ["Prima pensa, poi programma": Leslie Lamport, TLA+ e il ponte verso BFT e (crypto)-consensus](https://medium.com/@cristianocavo/prima-pensa-poi-programma-leslie-lamport-tla-e-il-ponte-verso-bft-e-crypto-consensus-5dd9db5d65cd?source=rss-d17013da4ad3------2)
+- [La batteria elettrica: storia, innovazioni e curiosità da Volta ai giorni nostri](https://medium.com/@cristianocavo/la-batteria-elettrica-storia-innovazioni-e-curiosit%C3%A0-da-volta-ai-giorni-nostri-d523abe6dbda?source=rss-d17013da4ad3------2)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-<!-- Contatore Visite Retro -->
+<!-- Contatore Visite -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=strawberry-code&label=Profile%20Views&color=ff6b35&style=for-the-badge" alt="Profile Views"/>
-  <br/>
-  <img src="https://profile-counter.glitch.me/strawberry-code/count.svg" alt="Visitor Count"/>
 </p>
 
 ---
