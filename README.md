@@ -64,6 +64,11 @@
   <!-- Embedded & IoT -->
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,bash" alt="Embedded"/>
   <br/>
+  <!-- 3D Printing & Blockchain -->
+  <img src="https://img.shields.io/badge/OctoPrint-13C100?style=for-the-badge&logo=octoprint&logoColor=white" alt="OctoPrint"/>
+  <img src="https://img.shields.io/badge/Corda_R3-EC1D24?style=for-the-badge&logo=r3&logoColor=white" alt="Corda R3"/>
+  <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian"/>
+  <br/>
   <!-- AI & LLM -->
   <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
@@ -74,16 +79,6 @@
 </p>
 
 ---
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strawberry-code&show_icons=true&title_color=ff6b35&icon_color=f72585&text_color=ffffff&bg_color=151515&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawberry-code&layout=compact&title_color=ff6b35&text_color=ffffff&bg_color=151515&hide_border=true" alt="Top Languages"/>
-</p>
 
 <!-- GitHub Streak - Fire Theme -->
 <p align="center">
