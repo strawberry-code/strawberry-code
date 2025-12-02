@@ -116,7 +116,7 @@
 - [Chi sei tu? Un viaggio tra gli identificatori digitali](https://medium.com/@cristianocavo/chi-sei-tu-un-viaggio-tra-gli-identificatori-digitali-86d1697e115b?source=rss-d17013da4ad3------2)
 - [Pokemon Monogatari: nella tana del Dr. Bug](https://medium.com/@cristianocavo/pokemon-monogatari-nella-tana-del-dr-bug-ecb45e4a2f23?source=rss-d17013da4ad3------2)
 - [La grande IDEa](https://medium.com/@cristianocavo/la-grande-idea-d00df0e49321?source=rss-d17013da4ad3------2)
-- ["Prima pensa, poi programma": Leslie Lamport, TLA+ e il ponte verso BFT e (crypto)-consensus](https://medium.com/@cristianocavo/prima-pensa-poi-programma-leslie-lamport-tla-e-il-ponte-verso-bft-e-crypto-consensus-5dd9db5d65cd?source=rss-d17013da4ad3------2)
+- [“Prima pensa, poi programma”: Leslie Lamport, TLA+ e il ponte verso BFT e &lpar;crypto&rpar;-consensus](https://medium.com/@cristianocavo/prima-pensa-poi-programma-leslie-lamport-tla-e-il-ponte-verso-bft-e-crypto-consensus-5dd9db5d65cd?source=rss-d17013da4ad3------2)
 - [La batteria elettrica: storia, innovazioni e curiosità da Volta ai giorni nostri](https://medium.com/@cristianocavo/la-batteria-elettrica-storia-innovazioni-e-curiosit%C3%A0-da-volta-ai-giorni-nostri-d523abe6dbda?source=rss-d17013da4ad3------2)
 <!-- BLOG-POST-LIST:END -->
 
