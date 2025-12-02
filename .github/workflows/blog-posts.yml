@@ -1,0 +1,24 @@
+# GitHub Action per aggiornare i blog posts da Medium
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Esegue ogni giorno alle 00:00
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@cristianocavo"
+          max_post_count: 5
+          template: "- [$title]($url) - $date"
+          date_format: "dd/mm/yyyy"

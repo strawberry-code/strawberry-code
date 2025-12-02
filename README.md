@@ -1,22 +1,152 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=strawberry-code&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true">
+<!-- Typing Effect Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineer;LLM+Spellcaster;Prompt+Engineer;4.0+Industry+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
+<!-- Badge Social & Contatti -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristiano-cavo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@cristianocavo">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://vercel.com/cristianos-projects-e950592c/simple-web-calc">
+    <img src="https://img.shields.io/badge/LLM_Spellcaster-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="LLM Spellcaster"/>
+  </a>
+  <a href="mailto:cristianocavo@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<!-- Bio Personale -->
 ### Hi there, you are welcome ⛩
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=Linkedin&style=flat-square&logoColor=blue)](https://www.linkedin.com/in/cristiano-cavo/)
-  
-  
-👨‍🎓 Proud Master's Degree at Polytechnic University of Turin
+👨‍🎓 Proud Master's Degree at **Polytechnic University of Turin**
 
-👨‍💻 Software Engineer - 4.0 Industry oriented developer
+👨‍💻 **Software Engineer** - 4.0 Industry oriented developer
+
+🧙‍♂️ **LLM Spellcaster** - Claude, Agents, MCP, RAG enthusiast
+
+🤖 **Prompt Engineer** - Crafting AI interactions
 
 🖥 Unix shell advanced user
 
-🕹 Videogames addicted
-
 🍎 macOS evangelist
+
+🕹 Videogames addicted
 
 🗿 3D printer lover
 
 🔗 Blockchain-aware
 
 🐕🐕 Shiba Inu ♂︎ and Shiba Inu ♀︎ owner
+
+<!-- Timezone Widget -->
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=ff6b35&label=🕐%20Local%20Time&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FRome&style=for-the-badge" alt="Local Time"/>
+</p>
+
+---
+
+<!-- Tech Stack -->
+### 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=java,python,go,nodejs,spring,gradle,maven" alt="Backend"/>
+  <br/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,typescript,javascript,html,css,sass" alt="Frontend"/>
+  <br/>
+  <!-- DevOps & Cloud -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,github,gitlab" alt="DevOps"/>
+  <br/>
+  <!-- Embedded & IoT -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,bash" alt="Embedded"/>
+  <br/>
+  <!-- AI & LLM -->
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG-F72585?style=for-the-badge" alt="RAG"/>
+</p>
+
+---
+
+<!-- GitHub Stats + Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=strawberry-code&show_icons=true&theme=radical&title_color=ff6b35&icon_color=f72585&text_color=ffffff&bg_color=151515&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawberry-code&layout=pie&theme=radical&title_color=ff6b35&text_color=ffffff&bg_color=151515&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+<!-- GitHub Streak - Fire Theme -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=strawberry-code&theme=radical&background=151515&ring=ff6b35&fire=f72585&currStreakLabel=ff6b35&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9f9f9f&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=strawberry-code&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/strawberry-code/strawberry-code/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+<!-- Pinned Repos Cards -->
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/strawberry-code/strawberry-code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=strawberry-code&repo=strawberry-code&theme=radical&title_color=ff6b35&icon_color=f72585&text_color=ffffff&bg_color=151515&hide_border=true" alt="Profile Repo"/>
+  </a>
+</p>
+
+<!-- Aggiungi qui altri repo quando li avrai -->
+<!--
+<p align="center">
+  <a href="https://github.com/strawberry-code/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=strawberry-code&repo=REPO_NAME&theme=radical&title_color=ff6b35&icon_color=f72585&text_color=ffffff&bg_color=151515&hide_border=true" alt="Repo"/>
+  </a>
+</p>
+-->
+
+---
+
+<!-- Medium Blog Posts -->
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<!-- Contatore Visite Retro -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=strawberry-code&label=Profile%20Views&color=ff6b35&style=for-the-badge" alt="Profile Views"/>
+  <br/>
+  <img src="https://profile-counter.glitch.me/strawberry-code/count.svg" alt="Visitor Count"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer"/>
+</p>
